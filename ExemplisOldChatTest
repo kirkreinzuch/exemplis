@@ -42,7 +42,7 @@
 			{
 				baseLiveAgentContentURL: 'https://c.la12s-core1.sfdc-yfeipo.salesforceliveagent.com/content',
 				deploymentId: '572Po00000A3afW',
-				buttonId: '573Po000000IheQ',
+				buttonId: '573O4000002dfBp',
 				baseLiveAgentURL: 'https://d.la12s-core1.sfdc-yfeipo.salesforceliveagent.com/chat',
 				eswLiveAgentDevName: 'Edloe_Finch_Chat',
 				isOfflineSupportEnabled: true
